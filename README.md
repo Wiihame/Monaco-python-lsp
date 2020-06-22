@@ -22,7 +22,7 @@ pip install tornado pyls_jsonrpc
 2. 运行脚本
 
 ```
-py python-server/langserver_ext.py
+python python-server/langserver_ext.py
 ```
 
 3. 访问`http://localhost:3001/python`（默认启动端口，可自己修改），若有"Can "Upgrade" only to "WebSocket"."的文字提示，即服务其成功启动
