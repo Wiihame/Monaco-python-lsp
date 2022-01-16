@@ -13,11 +13,12 @@ client 和 server 之间的连接方式是 websocket，通过 typefox 的 monaco
 
 本地调试开发教程：
 
-1. 安装 python 依赖(python 2.7 即可)
+1. 安装 python 依赖(python 3.4+)
 
 ```
-pip install tornado pyls_jsonrpc
+pip install tornado python-jsonrpc-server
 ```
+>| 安装依赖的时候使用python-jsonrpc-server，调用的时候用pyls_jsonrpc的包名  （[出处](https://github.com/palantir/python-language-server/issues/643)）
 
 2. 运行脚本
 
