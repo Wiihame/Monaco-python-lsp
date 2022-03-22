@@ -1,6 +1,6 @@
 {
   "name": "monaco-editor-lsp",
-  "author": "Wiihame<Weihang.chen@yff.com>",
+  "author": "Wiihame<wiihame@outlook.com>",
   "version": "0.0.1",
   "dependencies": {
     "express": "^4.15.2",
