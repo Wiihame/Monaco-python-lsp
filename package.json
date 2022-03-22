@@ -13,7 +13,7 @@
     "vscode-json-languageservice": "^3.1.4",
     "vscode-languageserver": "^4.0.0",
     "vscode-ws-jsonrpc": "^0.0.2-1",
-    "ws": "^5.0.0"
+    "ws": "^5.2.3"
   },
   "devDependencies": {
     "@types/express": "^4.0.35",
