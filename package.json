@@ -3,7 +3,7 @@
   "author": "Wiihame<wiihame@outlook.com>",
   "version": "0.0.1",
   "dependencies": {
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "monaco-editor": "0.14.3",
     "monaco-editor-core": "^0.14.6",
     "monaco-languageclient": "^0.9.0",
